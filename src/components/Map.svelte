@@ -15,7 +15,7 @@
   zoom={5}
   minZoom={8}
 >
-  <VectorTileSource url={"pmtiles://BAR_EUROPE_ENTIER_without_Scand.pmtiles"}>
+  <VectorTileSource url={"pmtiles://./BAR_EUROPE_ENTIER_without_Scand.pmtiles"}>
     <FillLayer
       paint={{
         "fill-opacity": [
