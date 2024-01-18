@@ -16,7 +16,7 @@
   minZoom={8}
 >
   <VectorTileSource
-    url={"pmtiles:///static/BAR_EUROPE_ENTIER_without_Scand.pmtiles"}
+    url={"pmtiles://./static/BAR_EUROPE_ENTIER_without_Scand.pmtiles"}
   >
     <FillLayer
       paint={{
